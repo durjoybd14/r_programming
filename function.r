@@ -34,3 +34,6 @@ result <- sum_of_nums(50, 100) # global variable
 print(result)
 
 # print(sum)
+
+
+print("i love shoshe")
